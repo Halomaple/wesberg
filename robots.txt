@@ -1,0 +1,19 @@
+User-agent: *
+
+Disallow: /feed
+
+Disallow: /trackback
+
+Disallow: /comments/feed
+
+Disallow: /wp-content/
+
+Disallow: /wp-includes/
+
+Disallow: /wp-admin/
+
+Disallow: /author
+
+Disallow: /*.css$
+
+Disallow: /*.js$

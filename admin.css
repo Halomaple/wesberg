@@ -1,0 +1,171 @@
+/*Hide update*/
+.update-nag {
+    display: none;
+}
+
+.wp-first-item .wp-submenu.wp-submenu-wrap {
+    display: none !important;
+}
+
+#wpfooter {
+    display: none;
+}
+
+/*Hide right top help button*/
+#contextual-help-link-wrap {
+    display: none;
+}
+
+/*Hide right top options*/
+#screen-options-link-wrap {
+    display: none;
+}
+
+/*Slide useless element*/
+#ssp-col-right {
+    display: none !important;
+}
+
+#ssp_slider_options_metabox {
+    display: none !important;
+}
+
+#ssp-col-left {
+    margin: 0;
+}
+
+/*Hide WP updates*/
+#wp-admin-bar-updates {
+    display: none;
+}
+
+/*Hide WP news*/
+#dashboard_primary.postbox {
+    display: none;
+}
+
+/*Hide warning notice*/
+.notice.notice-warning.is-dismissible {
+    display: none;
+}
+
+/*Hide dashboard*/
+#menu-dashboard ul li:nth-child(2),
+#menu-dashboard ul li:nth-child(3) {
+    display: none;
+}
+
+#wp-version-message {
+    display: none;
+}
+
+/*Hide customize theme btn*/
+.active-theme a:nth-child(1) {
+    display: none;
+}
+
+/*Hide pages*/
+#menu-pages {
+    display: none;
+}
+
+/*Hide delete menu button*/
+.submitdelete.deletion.menu-delete {
+    display: none;
+}
+
+/*Hide auto add pages to menu*/
+.auto-add-pages {
+    display: none;
+}
+
+/*Hide appearance*/
+#menu-appearance ul li:nth-child(2),
+#menu-appearance ul li:nth-child(3),
+#menu-appearance ul li:nth-child(5) {
+    display: none;
+}
+
+/*Hide commments*/
+#menu-comments {
+    display: none;
+}
+
+/*Hide plugins*/
+#menu-plugins {
+    display: none;
+}
+
+/*Hide Users*/
+#menu-users {
+    display: none;
+}
+
+/*Hide tools*/
+#menu-tools {
+    display: none;
+}
+
+/*Hide 超级留言板updated*/
+#message.updated {
+    display: none;
+}
+
+/*Hide settings*/
+#menu-settings {
+    display: none;
+}
+
+/*Hide Contact Form Unnecessary*/
+#toplevel_page_wpcf7 > ul > li:nth-child(4) {
+    display: none;
+}
+
+#informationdiv {
+    display: none;
+}
+
+#poststuff .inside .description {
+    display: none;
+}
+
+/*All in one seo*/
+#toplevel_page_all-in-one-seo-pack-aioseop_class {
+    display: none;
+}
+
+/*Custom field*/
+.acf-column-2 {
+    display: none;
+}
+
+#toplevel_page_edit-post_type-acf ul li:nth-child(4) {
+    display: none;
+}
+
+/*Hide wp slide short code*/
+#ssp_shortcode_meta_box {
+    display: none;
+}
+
+/*Hide wp attachment column in media gallery*/
+.column-downloads_count {
+    display: none;
+}
+
+.column-comments {
+    display: none;
+}
+
+.column-wpattachments_parent {
+    display: none;
+}
+
+.column-wpa-download {
+    display: none;
+}
+
+/*Hide delete slider btn*/
+.type-ssp_slider span.trash{
+    display: none;
+}
